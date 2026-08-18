@@ -1,5 +1,7 @@
 # Lucas Ran
 
+<img src="/images/avatar.jpg" alt="Lucas Ran" width="150" style="border-radius: 50%; border: 3px solid #ddd;">
+
 > Personal Portfolio | Knowledge Base | Projects | Travel & Community
 
 ---
