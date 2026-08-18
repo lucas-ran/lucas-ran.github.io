@@ -27,5 +27,5 @@ Write a brief introduction here: your background, interests, and current goals.
 
 ## Contact
 
-- Email: ranzikuan@gmail.com
+- Email: [ranzikuan@gmail.com](mailto:ranzikuan@gmail.com)
 - LinkedIn: linkedin.com/in/yourprofile
