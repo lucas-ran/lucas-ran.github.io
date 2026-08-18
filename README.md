@@ -1,6 +1,7 @@
 <div style="display:flex; align-items:center; justify-content:space-between; gap:30px; margin-bottom:30px; flex-wrap:wrap;">
   <div>
     <h1 style="margin:0; font-size:2.5em;">Lucas Ran</h1>
+    
     <p style="margin:10px 0; color:#666; font-size:1.1em;">Personal Portfolio | Knowledge Base | Projects | Travel</p>
   </div>
   
@@ -9,8 +10,8 @@
       border-radius:50%;
       display:block;
       object-fit:cover;
-      -webkit-mask-image: radial-gradient(circle, black 65%, transparent 95%);
-      mask-image: radial-gradient(circle, black 65%, transparent 95%);
+      -webkit-mask-image: radial-gradient(circle, black 50%, transparent 95%);
+      mask-image: radial-gradient(circle, black 50%, transparent 95%);
     ">
   </div>
 </div>
