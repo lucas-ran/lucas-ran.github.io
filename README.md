@@ -3,6 +3,7 @@
     <h1 style="margin:0; font-size:2.5em;">Lucas Ran</h1>
     <p style="margin:10px 0; color:#666; font-size:1.1em;">Personal Portfolio | Knowledge Base | Projects | Travel</p>
   </div>
+  
   <div>
     <img src="/images/avatar.jpg" width="140" height="140" style="
       border-radius:50%;
