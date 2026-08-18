@@ -3,11 +3,16 @@
     <h1 style="margin:0; font-size:2.5em;">Lucas Ran</h1>
     <p style="margin:10px 0; color:#666; font-size:1.1em;">Personal Portfolio | Knowledge Base | Projects | Travel</p>
   </div>
-  <div style="padding:5px; border-radius:50%; background:linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
-    <img src="/images/avatar.jpg" width="140" height="140" style="border-radius:50%; display:block; object-fit:cover;">
+  <div>
+    <img src="/images/avatar.jpg" width="140" height="140" style="
+      border-radius:50%;
+      display:block;
+      object-fit:cover;
+      -webkit-mask-image: radial-gradient(circle, black 65%, transparent 95%);
+      mask-image: radial-gradient(circle, black 65%, transparent 95%);
+    ">
   </div>
 </div>
-
 ---
 
 ## About Me
