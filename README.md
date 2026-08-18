@@ -10,8 +10,8 @@
       border-radius:50%;
       display:block;
       object-fit:cover;
-      -webkit-mask-image: radial-gradient(circle, black 50%, transparent 95%);
-      mask-image: radial-gradient(circle, black 50%, transparent 95%);
+      -webkit-mask-image: radial-gradient(circle, black 50%, transparent 100%);
+      mask-image: radial-gradient(circle, black 50%, transparent 100%);
     ">
   </div>
 </div>
