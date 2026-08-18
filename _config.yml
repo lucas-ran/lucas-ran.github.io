@@ -1,1 +1,17 @@
-title: ""
+# 站点基本信息
+title: "Lucas Ran"
+description: "Personal Portfolio"
+author: "Lucas Ran"
+email: "ranzikuan@gmail.com"
+
+# 主题（后面讲怎么换）
+theme: minima
+
+# 网站地址（自定义域名填这个）
+url: "https://lucasran.com"
+baseurl: ""
+
+# 构建设置
+markdown: kramdown
+plugins:
+  - jekyll-feed
